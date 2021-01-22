@@ -2,7 +2,7 @@
 
 
 
-Hello All! Welcome to my Github Page feel free to browse my Projects.
+Hello All! My name is Tushar Singh, I am an aspiring Data analyst/scientist. I Welcome you all to my Github Profile, feel free to browse my Projects.
 
 
 Connect with me on these platforms:
@@ -13,5 +13,5 @@ Twitter ^https://twitter.com/DataHuncher
 
 Github ^https://github.com/tusharsinghsuryavanshi/Personal_Projects-PP-
 
-Mail me ^tusharsingh00@ymail.com
+*Mail me* ^tusharsingh00@ymail.com
 
