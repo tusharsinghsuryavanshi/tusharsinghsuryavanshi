@@ -1,4 +1,4 @@
-[Hi there 👋](https://res.cloudinary.com/githu/image/upload/v1611315873/DexterSeason1-2_pl3uzc.png)
+[!Hi there 👋](https://res.cloudinary.com/githu/image/upload/v1611315873/DexterSeason1-2_pl3uzc.png)
 
 
 Hello All! My name is Tushar Singh, I am an aspiring Data analyst/scientist. I Welcome you all to my Github Profile, feel free to browse my Projects.
