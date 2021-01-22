@@ -7,11 +7,11 @@ Hello All! My name is Tushar Singh, I am an aspiring Data analyst/scientist. I W
 
 Connect with me on these platforms:
 
-LinkedIn ⁮^ https://www.linkedin.com/in/tushar-singh-suryavanshi/
+***LinkedIn*** ⁮^ https://www.linkedin.com/in/tushar-singh-suryavanshi/
 
-Twitter ^https://twitter.com/DataHuncher
+***Twitter*** ^https://twitter.com/DataHuncher
 
-Github ^https://github.com/tusharsinghsuryavanshi/Personal_Projects-PP-
+***Github*** ^https://github.com/tusharsinghsuryavanshi/Personal_Projects-PP-
 
-*Mail me* ^tusharsingh00@ymail.com
+***Mail me*** ^tusharsingh00@ymail.com
 
