@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-<!--
+
 
 Hello All! Welcome to my Github Page feel free to browse my Projects.
 
+
+Connect with me on these platforms:
 
 LinkedIn ⁮^ https://www.linkedin.com/in/tushar-singh-suryavanshi/
 
@@ -13,11 +15,3 @@ Github ^https://github.com/tusharsinghsuryavanshi/Personal_Projects-PP-
 
 Mail me ^tusharsingh00@ymail.com
 
-
-
-
-
-Connect with me on these platforms:
-
-
--->
