@@ -1,7 +1,7 @@
 ![Hi there 👋](https://res.cloudinary.com/githu/image/upload/v1611315873/DexterSeason1-2_pl3uzc.png)
 
 
-Hello All! My name is Tushar Singh, I am an aspiring Data analyst/scientist. I Welcome you all to my Github Profile, feel free to browse my Projects.
+Hello All! My name is Tushar Singh, I am an aspiring Business Analyst. I welcome you all to my Github Profile, feel free to explore my Projects.
 
 
 Connect with me on these platforms:
